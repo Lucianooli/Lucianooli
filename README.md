@@ -3,19 +3,20 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucianooli&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucianooli&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucianooli&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=86400" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucianooli&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=86400" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
 ### 🧠 Sobre mim
 
-<img align="right" height="150" src="https://wwws.cnpq.br/cvlattesweb/pkg_util_img.show_foto?v_cod=K1562170D8" alt="Foto Lattes" />
+Sou estudante de **Ciência da Computação** na **Universidade Federal da Paraíba (UFPB) – Campus IV**. Apaixonado por tecnologia, atualmente estou focado em desenvolver projetos nas áreas de **Desenvolvimento Web**, **Business Intelligence** e **Back-End com Java**.
 
-- 🔭 Atualmente estou estudando e desenvolvendo projetos em **React**, **Spring Boot** e **Power BI**.
-- 🌱 Estudando Inteligência Artificial, Cybersecurity e Back-End com **Java/Spring**.
-- 🎓 Veja meu currículo Lattes: [Luciano Cleberton Lattes](https://lattes.cnpq.br/6347349749331448)
+- 🎓 Graduação em Ciência da Computação — UFPB | Campus IV (Rio Tinto)
+- 🔭 Desenvolvendo projetos com **React**, **Spring Boot** e **Power BI**
+- 🌱 Estudando **Inteligência Artificial**, **Cibersegurança** e arquitetura de sistemas com **Java/Spring**
+- 💡 Interesse em unir **análise de dados** com **desenvolvimento full stack**
 
 ---
 
@@ -66,4 +67,3 @@
 ![Snake animation](https://raw.githubusercontent.com/Lucianooli/Lucianooli/output/snake.svg)
 
 ---
-
